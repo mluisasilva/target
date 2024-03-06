@@ -1,0 +1,1 @@
+Projeto Simples em Java com objetivo de teste para programa de estágio.
